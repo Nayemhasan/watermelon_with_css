@@ -8,4 +8,3 @@ or take a quick look here👇
     <tr><img src="https://github.com/Nayemhasan/watermelon_with_css/blob/main/watermelon.jpg"></tr>
 </table>
 
-## Thank You🍉
