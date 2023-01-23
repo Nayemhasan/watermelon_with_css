@@ -1,6 +1,6 @@
 # watermelon_with_css
 
-  drawn a watermelon with css
+  drawn a 🍉 with css
   
 > check out, [watermelon](https://nayemhasan.github.io/watermelon_with_css/)
 or take a quick look here👇
